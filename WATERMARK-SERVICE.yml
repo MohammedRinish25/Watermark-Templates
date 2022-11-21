@@ -18,5 +18,7 @@ spring:
       
 path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads\\
+destination:
+  values: C:\\Users\\MohammedRinishA\\Pictures\\Saved Pictures\\Download_Images
   
 
