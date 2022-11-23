@@ -21,7 +21,7 @@ path:
   
   
 command:
-  values: "cmd \\c magick convert" + inputPath+ " -font Arial -pointsize 35 -draw  \\"gravity center fill white text 5,-35 '"+ message + "' \\" " + inputName + "_converted" + extension\\
+  values: "cmd /c magick convert Bird.jpg  -font georgia -gravity Center -pointsize 400 -fill white -evaluate multiply 0.35 -annotate -30x-30 ----ACCEPTED---- code2.jpeg"
 
 
   
