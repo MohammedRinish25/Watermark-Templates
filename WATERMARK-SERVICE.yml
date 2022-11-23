@@ -20,4 +20,8 @@ path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads\\
   
 command:
-  values: "cmd /c magick convert" + inputPath+ " -font Arial -pointsize 35 -draw  \"gravity center fill white text 5,-35 '"+ message + "' \" " + inputName + "_converted" + extension
+  values1:  cmd /c magick convert
+command:
+  values2:  -font Arial -pointsize 35 -draw  gravity center fill white text 5,-35 
+  
+  
