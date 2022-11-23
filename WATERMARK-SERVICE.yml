@@ -19,9 +19,6 @@ spring:
 path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads\\
   
-command:
-  values1:  cmd /c magick convert
-command:
-  values2:  -font Arial -pointsize 35 -draw  gravity center fill white text 5,-35 
+
   
   
