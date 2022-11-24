@@ -18,6 +18,8 @@ spring:
 path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads\\
   
+imageMagicCmd: cmd /c magick convert 
+imageMagicFormat: -font Arial -pointsize 35 -draw  \"gravity center fill white text 5,-35 '   
 
   
   
