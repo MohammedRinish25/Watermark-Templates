@@ -11,4 +11,4 @@ spring:
       - id: watermarkService
         uri:  lb://WATERMARK-API-SERVICE
         predicates:
-        - Path=/**
+        - Path=/** 
