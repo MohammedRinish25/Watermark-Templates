@@ -16,7 +16,7 @@ spring:
       ddl-auto: update
       
 path:
-  values: C:\\Users\\MohammedRinishA\\Pictures\\ImageMagick\\
+  values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads
   
 
 
