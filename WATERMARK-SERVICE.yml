@@ -18,6 +18,8 @@ spring:
 path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\Downloads\\
   
+command:  " -font georgia -gravity Center -pointsize 40 -fill white -evaluate multiply 0.35 -annotate -30x-30 "
+  
 
 
   
