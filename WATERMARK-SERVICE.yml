@@ -19,7 +19,6 @@ path:
   values: C:\\Users\\MohammedRinishA\\Pictures\\ImageMagick\\
   
 
-imageMagicFormat:  -font georgia -gravity Center -pointsize 400 -fill white -evaluate multiply 0.35 -annotate -30x-30   
 
   
   
